@@ -8,6 +8,6 @@ Simple HTTP get &amp; post Angular 2 - Typescript
 4. npm install
 5. npm start
 
-# Notes buat yang pake django (Saya asumsikan django sudah terinstall)
-1. Tambahkan Django CORS (Buka link https://github.com/ottoyiu/django-cors-headers) untuk lebih detail 
-2. Tinggal test pake program di atas, pindahkan request ke url django teman-teman 
+# Notes if using Django (I assume Django already installed)
+1. Add Django CORS (Open link https://github.com/ottoyiu/django-cors-headers for more detail) 
+2. Then, only test use program above, change request to your django url.
